@@ -13,9 +13,3 @@
 - Proceso: Serie de tareas o pasos de la cual se compone.
 - Tecnologia: Area general que comprende el manejo de maquinas que realizan una tarea especifica.
 - Informatica: Estudio del diseño de soluciones tecnologicas aplicadas al uso de informacion.
-
----
-
-### Como genero una automatizacion para el proceso de toma de ramos
-
-Tomar
